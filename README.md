@@ -1,3 +1,11 @@
+##################################
+在原来的InfiniTAM上添加realSense D435接口并测试；
+
+
+
+
+######################################3
+
 # InfiniTAM v3
 
 This is the main branch of the software bundle "InfiniTAM", the current version is actively maintained by:
